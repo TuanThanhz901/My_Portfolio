@@ -295,8 +295,8 @@ const allProjects = [
             "TypeScript",
             "Responsive Design"
         ],
-        liveUrl: "https://kelvindev-portfolio.vercel.app",
-        githubUrl: "https://github.com/Khoa1512/my-portfolio",
+        liveUrl: "https://tuanthanh-portfolio.vercel.app/",
+        githubUrl: "https://github.com/TuanThanhz901/My_Portfolio",
         date: "April 2025",
         role: "Designer & Developer"
     },
