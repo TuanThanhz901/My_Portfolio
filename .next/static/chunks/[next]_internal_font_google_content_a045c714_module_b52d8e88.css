@@ -1,0 +1,38 @@
+/* [next]/internal/font/google/content_a045c714.module.css [app-client] (css) */
+@font-face {
+  font-family: Content;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/zrfl0HLayePhU_AwYaz4IwD3VCk-s.p.9b4d97c5.woff2") format("woff2");
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C-200D, U+25CC, U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Content;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/zrfg0HLayePhU_AwaRzdNibVWQPsgAM-s.p.027ff1ff.woff2") format("woff2");
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C-200D, U+25CC, U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Content Fallback;
+  src: local(Arial);
+  ascent-override: 82.01%;
+  descent-override: 39.36%;
+  line-gap-override: 2.2%;
+  size-adjust: 148.85%;
+}
+
+.content_a045c714-module__6XFyeG__className {
+  font-family: Content, Content Fallback;
+  font-style: normal;
+}
+
+.content_a045c714-module__6XFyeG__variable {
+  --font-heading: "Content", "Content Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_content_a045c714_module_b52d8e88.css.map*/
