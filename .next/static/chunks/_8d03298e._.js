@@ -296,7 +296,7 @@ const allProjects = [
             "CSS",
             "JS"
         ],
-        liveUrl: "https://yoga-lyart.vercel.app/",
+        liveUrl: "#",
         githubUrl: "https://github.com/TuanThanhz901/Fashion_Recommendation_System",
         date: "December 2024",
         role: "Deep Learning"
@@ -320,57 +320,21 @@ const allProjects = [
     },
     {
         id: 4,
-        title: "E-Commerce Website",
-        description: "A full-featured e-commerce platform with product listings, cart functionality, and payment integration.",
-        longDescription: "This project is a complete e-commerce solution built with Next.js and MongoDB. It features product listings, search functionality, shopping cart, user authentication, and Stripe payment integration. The admin dashboard allows for easy product and order management.",
-        image: "/ecommerce.jpg",
+        title: "EMAX - Learning English App",
+        description: "A cross-platform English learning app built with Flutter, featuring real-time chat, quizzes, flashcards, and Google login.",
+        longDescription: "EMAX is a cross-platform mobile application developed using Flutter and Dart, designed to support English learners through interactive exercises and community features. Key highlights include Google Sign-In authentication, real-time chat using WebSocket, English-Vietnamese dictionary with flashcard learning, ranking challenges, and Firebase Realtime Database for synchronization. The app promotes engaging and social learning with a user-friendly interface and role-based content access.",
+        image: "/Emax.png",
         tags: [
-            "Next.js",
-            "Tailwind CSS",
-            "Stripe",
-            "MongoDB",
-            "Redux"
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "WebSocket",
+            "Mobile App"
         ],
         liveUrl: "#",
-        githubUrl: "#",
-        date: "January 2023",
-        role: "Full Stack Developer"
-    },
-    {
-        id: 5,
-        title: "E-Commerce Website",
-        description: "A full-featured e-commerce platform with product listings, cart functionality, and payment integration.",
-        longDescription: "This project is a complete e-commerce solution built with Next.js and MongoDB. It features product listings, search functionality, shopping cart, user authentication, and Stripe payment integration. The admin dashboard allows for easy product and order management.",
-        image: "/ecommerce.jpg",
-        tags: [
-            "Next.js",
-            "Tailwind CSS",
-            "Stripe",
-            "MongoDB",
-            "Redux"
-        ],
-        liveUrl: "#",
-        githubUrl: "#",
-        date: "January 2023",
-        role: "Full Stack Developer"
-    },
-    {
-        id: 6,
-        title: "E-Commerce Website",
-        description: "A full-featured e-commerce platform with product listings, cart functionality, and payment integration.",
-        longDescription: "This project is a complete e-commerce solution built with Next.js and MongoDB. It features product listings, search functionality, shopping cart, user authentication, and Stripe payment integration. The admin dashboard allows for easy product and order management.",
-        image: "/ecommerce.jpg",
-        tags: [
-            "Next.js",
-            "Tailwind CSS",
-            "Stripe",
-            "MongoDB",
-            "Redux"
-        ],
-        liveUrl: "#",
-        githubUrl: "#",
-        date: "January 2023",
-        role: "Full Stack Developer"
+        githubUrl: "https://github.com/TuanThanhz901/Flutter-Learning-English-App",
+        date: "May 2024",
+        role: "Mobile App Developer"
     }
 ];
 const featuredProjects = allProjects.slice(0, 2);
