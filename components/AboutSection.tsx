@@ -115,7 +115,7 @@ const AboutSection = () => {
                   Ton Duc Thang University • 2021 - 2025
                 </p>
                  <p className='text-muted-foreground'>
-                  GPA: 3.04/4
+                  GPA: 2.94/4
                 </p>
                 <p className='text-muted-foreground'>
                   Aptis ESOL B2
