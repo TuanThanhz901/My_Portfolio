@@ -113,20 +113,24 @@ const ProjectSection = () => {
                 </div>
               </CardContent>
               <CardFooter className='flex justify-between'>
-                <Button asChild variant='outline'>
-                  <Link
-                    href={project.githubUrl}
-                    target='_blank'
-                    className='font-semibold'
-                  >
-                    {renderIcon("GitHub")} Code
-                  </Link>
-                </Button>
-                <Button asChild className='bg-[#7C3AED]'>
-                  <Link href={project.liveUrl} target='_blank'>
-                    {renderIcon("ExternalLink")} Live Demo
-                  </Link>
-                </Button>
+                {project.githubUrl && (
+                  <Button asChild variant='outline'>
+                    <Link
+                      href={project.githubUrl}
+                      target='_blank'
+                      className='font-semibold'
+                    >
+                      {renderIcon("GitHub")} Code
+                    </Link>
+                  </Button>
+                )}
+                {project.liveUrl && (
+                  <Button asChild className='bg-[#7C3AED]'>
+                    <Link href={project.liveUrl} target='_blank'>
+                      {renderIcon("ExternalLink")} Live Demo
+                    </Link>
+                  </Button>
+                )}
               </CardFooter>
             </Card>
           </motion.div>

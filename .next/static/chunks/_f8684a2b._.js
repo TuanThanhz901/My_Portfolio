@@ -893,7 +893,7 @@ const allProjects = [
             "Redux"
         ],
         liveUrl: "https://ecom-bice.vercel.app/",
-        githubUrl: "#",
+        githubUrl: "",
         date: "January 2024",
         role: "Full Stack Developer"
     },
@@ -912,7 +912,7 @@ const allProjects = [
             "CSS",
             "JS"
         ],
-        liveUrl: "#",
+        liveUrl: "",
         githubUrl: "https://github.com/TuanThanhz901/Fashion_Recommendation_System",
         date: "December 2024",
         role: "Deep Learning"
@@ -947,7 +947,7 @@ const allProjects = [
             "WebSocket",
             "Mobile App"
         ],
-        liveUrl: "#",
+        liveUrl: "",
         githubUrl: "https://github.com/TuanThanhz901/Flutter-Learning-English-App",
         date: "May 2024",
         role: "Mobile App Developer"

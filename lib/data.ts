@@ -143,7 +143,7 @@ export const allProjects: ProjectItem[] = [
     image: "/ecommerce.jpg",
     tags: ["Next.js", "Tailwind CSS", "Stripe", "MongoDB", "Redux"],
     liveUrl: "https://ecom-bice.vercel.app/",
-    githubUrl: "#",
+    githubUrl: "",
     date: "January 2024",
     role: "Full Stack Developer",
   },
@@ -156,7 +156,7 @@ export const allProjects: ProjectItem[] = [
       "This project is a fashion recommendation web application built with Flask. It leverages YOLOv5 and MobileNetV2 for image-based feature extraction and object detection. FAISS is used for fast and efficient similarity search among fashion items. Additionally, Graph Convolutional Networks (GCNs) are integrated to model complex user-item interactions and significantly improve the recommendation performance.",
     image: "/fashionRS.jpg",
     tags: ["Flask", "YOLOv5", "MobileNetV2", "FAISS", "HTML5", "CSS","JS"],
-    liveUrl: "#",
+    liveUrl: "",
     githubUrl: "https://github.com/TuanThanhz901/Fashion_Recommendation_System",
     date: "December 2024",
     role: "Deep Learning",
@@ -184,7 +184,7 @@ export const allProjects: ProjectItem[] = [
       "EMAX is a cross-platform mobile application developed using Flutter and Dart, designed to support English learners through interactive exercises and community features. Key highlights include Google Sign-In authentication, real-time chat using WebSocket, English-Vietnamese dictionary with flashcard learning, ranking challenges, and Firebase Realtime Database for synchronization. The app promotes engaging and social learning with a user-friendly interface and role-based content access.",
     image: "/Emax.png",
     tags: ["Flutter", "Dart", "Firebase", "WebSocket", "Mobile App"],
-    liveUrl: "#", // Thay bằng link demo thật nếu có
+    liveUrl: "", // Thay bằng link demo thật nếu có
     githubUrl: "https://github.com/TuanThanhz901/Flutter-Learning-English-App", // Thay bằng repo thật nếu có
     date: "May 2024",
     role: "Mobile App Developer",
