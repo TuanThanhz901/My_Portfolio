@@ -29,7 +29,7 @@ const HomeHero = () => {
             Hello, I'm Le Tuan Thanh
           </h1>
           <p className='mt-4 md:mt-6 text-lg md:text-xl lg:text-2xl xl:text-2xl 3xl:text-4xl text-muted-foreground max-w-4xl mx-auto'>
-            Web Developer & Mobile Developer & DS
+            Web Developer & Mobile Developer & AI Engineer
           </p>
           <p className='mt-3 md:mt-4 text-base md:text-lg lg:text-xl xl:text-xl 3xl:text-3xl text-muted-foreground max-w-5xl mx-auto'>
             I create beautiful, responsive, and user-friendly websites and mobile applications using modern technologies and machine 
